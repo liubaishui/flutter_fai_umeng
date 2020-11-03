@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.dependency 'Flutter'
   s.dependency 'UMCCommon', '2.1.1'
-  s.dependency 'UMCAnalytics', '6.0.5'
+  s.dependency 'UMCAnalytics', '6.1.0'
   s.dependency 'UMCCommonLog', '1.0.0'
   s.dependency 'UMCPush'
   #s.dependency 'UMCSecurityPlugins'
